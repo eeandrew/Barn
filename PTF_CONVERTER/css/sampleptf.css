@@ -1,0 +1,25 @@
+.backgd {
+	background: url(../img/background.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.navbar-brand {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+#mainbutton {
+	margin-top: 10px;
+}
+
+.jumbotron{
+	margin-top: 150px;
+	background-color: #eeeeee;
+	opacity: 0.9;
+}
+
+
+
